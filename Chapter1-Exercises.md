@@ -1,4 +1,4 @@
-# Chapter 1 Exercises
+# Chapter 1 Exercises - Intro to HTML
 
 Exercises under the heading **Assessment Exercises** must be completed as part of the Set Exercises assessment. You will find additional optional exercises which can be completed to gain higher marks.
 
