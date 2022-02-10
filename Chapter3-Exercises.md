@@ -1,4 +1,4 @@
-# Chapter 3 Exercises
+# Chapter 3 Exercises - Images
 
 Exercises under the heading **Assessment Exercises** must be completed as part of the Set Exercises assessment. You will find additional optional exercises which can be completed to gain higher marks. 
 
